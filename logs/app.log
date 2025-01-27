@@ -1,0 +1,307 @@
+2025-01-31 22:24:37 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:24:39 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:24:42 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:24:42 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - ➡️ Maksymalizacja okna przeglądarki
+2025-01-31 22:24:42 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'ACCEPT_ALL_COOKIES' na stronie 'HomePage'
+2025-01-31 22:24:43 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'ACCEPT_ALL_COOKIES'
+2025-01-31 22:24:43 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'SUBMENU_ITEM_SMARTWATCHES' na stronie 'HomePage'
+2025-01-31 22:24:50 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SUBMENU_ITEM_SMARTWATCHES'
+2025-01-31 22:24:50 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'SMARTWATCHES_ITEM_0' na stronie 'HomePage'
+2025-01-31 22:24:51 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SMARTWATCHES_ITEM_0'
+2025-01-31 22:24:51 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Sprawdzam, czy element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage' jest dostępny...
+2025-01-31 22:24:52 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' istnieje, sprawdzam widoczność...
+2025-01-31 22:24:52 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' jest widoczny, wykonuję kliknięcie...
+2025-01-31 22:24:52 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage'
+2025-01-31 22:24:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_WITHOUT_SUBSCRIPTION'
+2025-01-31 22:24:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:24:58 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [initialPrice] = 349 zł
+2025-01-31 22:24:58 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [monthlyInstalment] = 100 zł
+2025-01-31 22:24:58 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'BUTTON_ADD_TO_CART' na stronie 'SmartwatchItemPage'
+2025-01-31 22:24:58 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_ADD_TO_CART'
+2025-01-31 22:25:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketInitialPrice] = 349
+2025-01-31 22:25:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketMonthlyInstalment] = 100
+2025-01-31 22:28:27 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:28:27 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:28:27 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:28:29 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:28:31 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:28:31 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - ➡️ Maksymalizacja okna przeglądarki
+2025-01-31 22:28:31 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'ACCEPT_ALL_COOKIES' na stronie 'HomePage'
+2025-01-31 22:28:32 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'ACCEPT_ALL_COOKIES'
+2025-01-31 22:28:33 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'SUBMENU_ITEM_SMARTWATCHES' na stronie 'HomePage'
+2025-01-31 22:28:38 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SUBMENU_ITEM_SMARTWATCHES'
+2025-01-31 22:28:38 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'SMARTWATCHES_ITEM_0' na stronie 'HomePage'
+2025-01-31 22:28:39 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SMARTWATCHES_ITEM_0'
+2025-01-31 22:28:39 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Sprawdzam, czy element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage' jest dostępny...
+2025-01-31 22:28:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' istnieje, sprawdzam widoczność...
+2025-01-31 22:28:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' jest widoczny, wykonuję kliknięcie...
+2025-01-31 22:28:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage'
+2025-01-31 22:28:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_WITHOUT_SUBSCRIPTION'
+2025-01-31 22:28:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:28:45 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [initialPrice] = 349 zł
+2025-01-31 22:28:45 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [monthlyInstalment] = 100 zł
+2025-01-31 22:28:45 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'BUTTON_ADD_TO_CART' na stronie 'SmartwatchItemPage'
+2025-01-31 22:28:46 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_ADD_TO_CART'
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketInitialPrice] = 349
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketMonthlyInstalment] = 100
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketInitialPrice] na wartość: 349 zł
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketMonthlyInstalment] na wartość: 100 zł
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [initialPrice] = 349 zł | [basketInitialPrice] = 349 zł
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [monthlyInstalment] = 100 zł | [basketMonthlyInstalment] = 100 zł
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:28:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:28:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [iconBasketNumberOfProducts] = 1
+2025-01-31 22:28:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - W koszyku znajduje się następująca liczba produktów: 1
+2025-01-31 22:28:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Liczba produktów w koszyku jest równa 1.
+2025-01-31 22:28:53 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Zakończenie scenariusza ====================
+2025-01-31 22:28:53 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Test zakończony POMYŚLNIE: Zadanie rekrutacyjne 1
+2025-01-31 22:28:53 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Zamykam przeglądarkę...
+2025-01-31 22:29:24 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:29:24 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:29:29 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:29:35 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:29:40 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:29:40 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:29:43 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:31:35 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:31:47 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:31:47 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:31:47 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:31:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:31:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:31:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - ➡️ Maksymalizacja okna przeglądarki
+2025-01-31 22:31:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'ACCEPT_ALL_COOKIES' na stronie 'HomePage'
+2025-01-31 22:31:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'ACCEPT_ALL_COOKIES'
+2025-01-31 22:31:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'SUBMENU_ITEM_SMARTWATCHES' na stronie 'HomePage'
+2025-01-31 22:32:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SUBMENU_ITEM_SMARTWATCHES'
+2025-01-31 22:32:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'SMARTWATCHES_ITEM_0' na stronie 'HomePage'
+2025-01-31 22:32:01 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SMARTWATCHES_ITEM_0'
+2025-01-31 22:32:01 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Sprawdzam, czy element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage' jest dostępny...
+2025-01-31 22:32:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' istnieje, sprawdzam widoczność...
+2025-01-31 22:32:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' jest widoczny, wykonuję kliknięcie...
+2025-01-31 22:32:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage'
+2025-01-31 22:32:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_WITHOUT_SUBSCRIPTION'
+2025-01-31 22:32:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:32:07 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [initialPrice] = 349 zł
+2025-01-31 22:32:07 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [monthlyInstalment] = 100 zł
+2025-01-31 22:32:07 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'BUTTON_ADD_TO_CART' na stronie 'SmartwatchItemPage'
+2025-01-31 22:32:08 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_ADD_TO_CART'
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketInitialPrice] = 349
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketMonthlyInstalment] = 100
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketInitialPrice] na wartość: 349 zł
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketMonthlyInstalment] na wartość: 100 zł
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [initialPrice] = 349 zł | [basketInitialPrice] = 349 zł
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [monthlyInstalment] = 100 zł | [basketMonthlyInstalment] = 100 zł
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:32:11 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:32:16 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [iconBasketNumberOfProducts] = 1
+2025-01-31 22:32:16 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - W koszyku znajduje się następująca liczba produktów: 1
+2025-01-31 22:32:16 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Liczba produktów w koszyku jest równa 1.
+2025-01-31 22:32:16 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Zakończenie scenariusza ====================
+2025-01-31 22:32:16 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Test zakończony POMYŚLNIE: Zadanie rekrutacyjne 1
+2025-01-31 22:32:16 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Zamykam przeglądarkę...
+2025-01-31 22:33:44 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:33:44 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:33:44 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:33:44 INFO  [36mcom.codeborne.selenide.WebDriverThreadLocalContainer[m - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2025-01-31 22:33:45 INFO  [36mcom.codeborne.selenide.webdriver.WebDriverFactory[m - Selenide 7.7.1 / Selenium 4.28.0 / chrome 132.0.6834.111 windows
+2025-01-31 22:33:45 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:33:47 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:33:47 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - ➡️ Maksymalizacja okna przeglądarki
+2025-01-31 22:33:47 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'ACCEPT_ALL_COOKIES' na stronie 'HomePage'
+2025-01-31 22:33:47 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'ACCEPT_ALL_COOKIES'
+2025-01-31 22:33:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'SUBMENU_ITEM_SMARTWATCHES' na stronie 'HomePage'
+2025-01-31 22:33:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SUBMENU_ITEM_SMARTWATCHES'
+2025-01-31 22:33:53 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'SMARTWATCHES_ITEM_0' na stronie 'HomePage'
+2025-01-31 22:33:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SMARTWATCHES_ITEM_0'
+2025-01-31 22:33:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Sprawdzam, czy element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage' jest dostępny...
+2025-01-31 22:33:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' istnieje, sprawdzam widoczność...
+2025-01-31 22:33:55 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' jest widoczny, wykonuję kliknięcie...
+2025-01-31 22:33:55 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage'
+2025-01-31 22:33:55 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_WITHOUT_SUBSCRIPTION'
+2025-01-31 22:33:55 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:34:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [initialPrice] = 349 zł
+2025-01-31 22:34:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [monthlyInstalment] = 100 zł
+2025-01-31 22:34:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱️ Klikam element 'BUTTON_ADD_TO_CART' na stronie 'SmartwatchItemPage'
+2025-01-31 22:34:01 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_ADD_TO_CART'
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketInitialPrice] = 349
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketMonthlyInstalment] = 100
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketInitialPrice] na wartość: 349 zł
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketMonthlyInstalment] na wartość: 100 zł
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [initialPrice] = 349 zł | [basketInitialPrice] = 349 zł
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [monthlyInstalment] = 100 zł | [basketMonthlyInstalment] = 100 zł
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:34:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:34:05 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:34:05 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:34:10 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [iconBasketNumberOfProducts] = 1
+2025-01-31 22:34:10 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - W koszyku znajduje się następująca liczba produktów: 1
+2025-01-31 22:34:10 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Liczba produktów w koszyku jest równa 1.
+2025-01-31 22:34:10 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Zakończenie scenariusza ====================
+2025-01-31 22:34:10 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Test zakończony POMYŚLNIE: Zadanie rekrutacyjne 1
+2025-01-31 22:34:10 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Zamykam przeglądarkę...
+2025-01-31 22:34:45 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:34:45 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:34:45 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:34:45 INFO  [36mcom.codeborne.selenide.WebDriverThreadLocalContainer[m - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2025-01-31 22:34:46 INFO  [36mcom.codeborne.selenide.webdriver.WebDriverFactory[m - Selenide 7.7.1 / Selenium 4.28.0 / chrome 132.0.6834.111 windows
+2025-01-31 22:34:46 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:34:49 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:34:49 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - ➡Maksymalizacja okna przeglądarki
+2025-01-31 22:34:49 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'ACCEPT_ALL_COOKIES' na stronie 'HomePage'
+2025-01-31 22:34:50 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'ACCEPT_ALL_COOKIES'
+2025-01-31 22:34:50 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'SUBMENU_ITEM_SMARTWATCHES' na stronie 'HomePage'
+2025-01-31 22:34:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SUBMENU_ITEM_SMARTWATCHES'
+2025-01-31 22:34:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'SMARTWATCHES_ITEM_0' na stronie 'HomePage'
+2025-01-31 22:34:55 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SMARTWATCHES_ITEM_0'
+2025-01-31 22:34:55 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Sprawdzam, czy element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage' jest dostępny...
+2025-01-31 22:34:56 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' istnieje, sprawdzam widoczność...
+2025-01-31 22:34:56 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' jest widoczny, wykonuję kliknięcie...
+2025-01-31 22:34:56 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage'
+2025-01-31 22:34:57 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_WITHOUT_SUBSCRIPTION'
+2025-01-31 22:34:57 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:35:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [initialPrice] = 349 zł
+2025-01-31 22:35:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [monthlyInstalment] = 100 zł
+2025-01-31 22:35:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'BUTTON_ADD_TO_CART' na stronie 'SmartwatchItemPage'
+2025-01-31 22:35:02 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_ADD_TO_CART'
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketInitialPrice] = 349
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketMonthlyInstalment] = 100
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketInitialPrice] na wartość: 349 zł
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketMonthlyInstalment] na wartość: 100 zł
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [initialPrice] = 349 zł | [basketInitialPrice] = 349 zł
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [monthlyInstalment] = 100 zł | [basketMonthlyInstalment] = 100 zł
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:35:04 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:35:05 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:35:05 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:35:10 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [iconBasketNumberOfProducts] = 1
+2025-01-31 22:35:10 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - W koszyku znajduje się następująca liczba produktów: 1
+2025-01-31 22:35:10 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Liczba produktów w koszyku jest równa 1.
+2025-01-31 22:35:10 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Zakończenie scenariusza ====================
+2025-01-31 22:35:10 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Test zakończony POMYŚLNIE: Zadanie rekrutacyjne 1
+2025-01-31 22:35:10 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Zamykam przeglądarkę...
+2025-01-31 22:36:40 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:36:40 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:36:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:36:40 INFO  [36mcom.codeborne.selenide.WebDriverThreadLocalContainer[m - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2025-01-31 22:36:41 INFO  [36mcom.codeborne.selenide.webdriver.WebDriverFactory[m - Selenide 7.7.1 / Selenium 4.28.0 / chrome 132.0.6834.111 windows
+2025-01-31 22:36:41 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:36:44 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:36:44 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - ➡Maksymalizacja okna przeglądarki
+2025-01-31 22:36:44 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'ACCEPT_ALL_COOKIES' na stronie 'HomePage'
+2025-01-31 22:36:44 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'ACCEPT_ALL_COOKIES'
+2025-01-31 22:36:45 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'SUBMENU_ITEM_SMARTWATCHES' na stronie 'HomePage'
+2025-01-31 22:36:50 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SUBMENU_ITEM_SMARTWATCHES'
+2025-01-31 22:36:50 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'SMARTWATCHES_ITEM_0' na stronie 'HomePage'
+2025-01-31 22:36:50 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SMARTWATCHES_ITEM_0'
+2025-01-31 22:36:50 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Sprawdzam, czy element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage' jest dostępny...
+2025-01-31 22:36:51 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' istnieje, sprawdzam widoczność...
+2025-01-31 22:36:51 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' jest widoczny, wykonuję kliknięcie...
+2025-01-31 22:36:51 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage'
+2025-01-31 22:36:52 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_WITHOUT_SUBSCRIPTION'
+2025-01-31 22:36:52 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:36:57 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [initialPrice] = 349 zł
+2025-01-31 22:36:57 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [monthlyInstalment] = 100 zł
+2025-01-31 22:36:57 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - 🖱Klikam element 'BUTTON_ADD_TO_CART' na stronie 'SmartwatchItemPage'
+2025-01-31 22:36:57 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_ADD_TO_CART'
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketInitialPrice] = 349
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketMonthlyInstalment] = 100
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketInitialPrice] na wartość: 349 zł
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketMonthlyInstalment] na wartość: 100 zł
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [initialPrice] = 349 zł | [basketInitialPrice] = 349 zł
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [monthlyInstalment] = 100 zł | [basketMonthlyInstalment] = 100 zł
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:37:00 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:37:05 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [iconBasketNumberOfProducts] = 1
+2025-01-31 22:37:05 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - W koszyku znajduje się następująca liczba produktów: 1
+2025-01-31 22:37:05 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Liczba produktów w koszyku jest równa 1.
+2025-01-31 22:37:05 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Zakończenie scenariusza ====================
+2025-01-31 22:37:05 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Test zakończony POMYŚLNIE: Zadanie rekrutacyjne 1
+2025-01-31 22:37:05 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Zamykam przeglądarkę...
+2025-01-31 22:37:12 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:37:12 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:37:12 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:37:12 INFO  [36mcom.codeborne.selenide.WebDriverThreadLocalContainer[m - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2025-01-31 22:37:13 INFO  [36mcom.codeborne.selenide.webdriver.WebDriverFactory[m - Selenide 7.7.1 / Selenium 4.28.0 / chrome 132.0.6834.111 windows
+2025-01-31 22:37:13 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:37:16 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:37:16 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - ➡Maksymalizacja okna przeglądarki
+2025-01-31 22:37:16 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'ACCEPT_ALL_COOKIES' na stronie 'HomePage'
+2025-01-31 22:37:16 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'ACCEPT_ALL_COOKIES'
+2025-01-31 22:37:16 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'SUBMENU_ITEM_SMARTWATCHES' na stronie 'HomePage'
+2025-01-31 22:37:21 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SUBMENU_ITEM_SMARTWATCHES'
+2025-01-31 22:37:21 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'SMARTWATCHES_ITEM_0' na stronie 'HomePage'
+2025-01-31 22:37:21 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SMARTWATCHES_ITEM_0'
+2025-01-31 22:37:21 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Sprawdzam, czy element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage' jest dostępny...
+2025-01-31 22:37:22 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' istnieje, sprawdzam widoczność...
+2025-01-31 22:37:22 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' jest widoczny, wykonuję kliknięcie...
+2025-01-31 22:37:22 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage'
+2025-01-31 22:37:23 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_WITHOUT_SUBSCRIPTION'
+2025-01-31 22:37:23 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:37:30 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Folder test log został utworzony: test-log
+2025-01-31 22:37:30 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Rozpoczynam nowy scenariusz... ====================
+2025-01-31 22:37:30 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Otwieram przeglądarkę...
+2025-01-31 22:37:30 INFO  [36mcom.codeborne.selenide.WebDriverThreadLocalContainer[m - No webdriver is bound to current thread: 1 - let's create a new webdriver
+2025-01-31 22:37:31 INFO  [36mcom.codeborne.selenide.webdriver.WebDriverFactory[m - Selenide 7.7.1 / Selenium 4.28.0 / chrome 132.0.6834.111 windows
+2025-01-31 22:37:31 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:37:33 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:37:33 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Maksymalizacja okna przeglądarki
+2025-01-31 22:37:33 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'ACCEPT_ALL_COOKIES' na stronie 'HomePage'
+2025-01-31 22:37:34 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'ACCEPT_ALL_COOKIES'
+2025-01-31 22:37:35 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'SUBMENU_ITEM_SMARTWATCHES' na stronie 'HomePage'
+2025-01-31 22:37:38 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SUBMENU_ITEM_SMARTWATCHES'
+2025-01-31 22:37:38 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'SMARTWATCHES_ITEM_0' na stronie 'HomePage'
+2025-01-31 22:37:39 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'SMARTWATCHES_ITEM_0'
+2025-01-31 22:37:39 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Sprawdzam, czy element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage' jest dostępny...
+2025-01-31 22:37:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' istnieje, sprawdzam widoczność...
+2025-01-31 22:37:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Element 'BUTTON_WITHOUT_SUBSCRIPTION' jest widoczny, wykonuję kliknięcie...
+2025-01-31 22:37:40 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'BUTTON_WITHOUT_SUBSCRIPTION' na stronie 'SmartwatchItemPage'
+2025-01-31 22:37:41 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_WITHOUT_SUBSCRIPTION'
+2025-01-31 22:37:41 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:37:46 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [initialPrice] = 349 zł
+2025-01-31 22:37:46 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [monthlyInstalment] = 100 zł
+2025-01-31 22:37:46 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Klikam element 'BUTTON_ADD_TO_CART' na stronie 'SmartwatchItemPage'
+2025-01-31 22:37:46 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Kliknięto element: 'BUTTON_ADD_TO_CART'
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketInitialPrice] = 349
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [basketMonthlyInstalment] = 100
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketInitialPrice] na wartość: 349 zł
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Zaktualizowano klucz [basketMonthlyInstalment] na wartość: 100 zł
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [initialPrice] = 349 zł | [basketInitialPrice] = 349 zł
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Porównanie wartości: [monthlyInstalment] = 100 zł | [basketMonthlyInstalment] = 100 zł
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Wartości są zgodne.
+2025-01-31 22:37:48 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Przechodzę na stronę T-Mobile...
+2025-01-31 22:37:49 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Strona główna T-Mobile została załadowana.
+2025-01-31 22:37:49 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Czekam 5 sekund...
+2025-01-31 22:37:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Buffer: Zapisano [iconBasketNumberOfProducts] = 1
+2025-01-31 22:37:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - W koszyku znajduje się następująca liczba produktów: 1
+2025-01-31 22:37:54 INFO  [36mpl.tmobile.recruitment.steps.StepDefinitions[m - Liczba produktów w koszyku jest równa 1.
+2025-01-31 22:37:54 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - 
+==================== Zakończenie scenariusza ====================
+2025-01-31 22:37:54 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Test zakończony POMYŚLNIE: Zadanie rekrutacyjne 1
+2025-01-31 22:37:54 INFO  [36mpl.tmobile.recruitment.steps.Hooks[m - Zamykam przeglądarkę...

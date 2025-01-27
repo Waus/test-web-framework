@@ -1,0 +1,15 @@
+
+==================================================
+Test nie powiódł się w scenariuszu: Zadanie rekrutacyjne 1
+Status: FAILED
+Czas: 2025-01-31T22:31:37.874266200
+
+Pełny log testu:
+SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J(W): Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J(W): Ignoring binding found at [jar:file:/C:/Users/Kamil%20Muranski/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.24.3/log4j-slf4j-impl-2.24.3.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J(W): See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+
+==================================================
