@@ -1,5 +1,10 @@
-test log/*
-!test log/.gitkeep
+test-log/*
+!test-log/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+.idea/workspace.xml
 
 target/
 !.mvn/wrapper/maven-wrapper.jar

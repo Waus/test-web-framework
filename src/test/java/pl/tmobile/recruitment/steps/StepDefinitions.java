@@ -2,7 +2,6 @@ package pl.tmobile.recruitment.steps;
 
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
-import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.apache.logging.log4j.LogManager;
@@ -12,11 +11,9 @@ import pl.tmobile.recruitment.pages.BasketPage;
 import pl.tmobile.recruitment.pages.HomePage;
 import pl.tmobile.recruitment.pages.SmartwatchItemPage;
 import pl.tmobile.recruitment.utils.Buffer;
-
 import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
-
 import static com.codeborne.selenide.Condition.enabled;
 import static com.codeborne.selenide.Condition.visible;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -28,7 +25,7 @@ public class StepDefinitions {
     private final Map<String, BasePage> pages = new HashMap<>();
 
     public StepDefinitions() {
-        pages.put("BasePage", new HomePage());
+        pages.put("BasePage", new BasePage());
         pages.put("HomePage", new HomePage());
         pages.put("SmartwatchItemPage", new SmartwatchItemPage());
         pages.put("BasketPage", new BasketPage());
