@@ -30,9 +30,9 @@ public class Hooks {
         Path logDirectory = Paths.get(LOG_DIR);
         try {
             Files.createDirectories(logDirectory);
-            logger.info("Folder test log został utworzony: {}", LOG_DIR);
+            logger.info("Folder test-log został utworzony: {}", LOG_DIR);
         } catch (IOException e) {
-            logger.error("Nie udało się utworzyć folderu test log: {}", e.getMessage());
+            logger.error("Nie udało się utworzyć folderu test-log: {}", e.getMessage());
         }
 
         System.setOut(new PrintStream(new TeeOutputStream(originalOut, logStream)));

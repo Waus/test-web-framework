@@ -11,9 +11,11 @@ import pl.tmobile.recruitment.pages.BasketPage;
 import pl.tmobile.recruitment.pages.HomePage;
 import pl.tmobile.recruitment.pages.SmartwatchItemPage;
 import pl.tmobile.recruitment.utils.Buffer;
+
 import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
+
 import static com.codeborne.selenide.Condition.enabled;
 import static com.codeborne.selenide.Condition.visible;
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -57,18 +59,8 @@ public class StepDefinitions {
             throw new IllegalArgumentException("Nie znaleziono strony: " + pageName);
         }
 
-        SelenideElement element = page.getElement(elementName);
         logger.info("Klikam element '{}' na stronie '{}'", elementName, pageName);
-
-        try {
-            element.shouldBe(visible, enabled);
-            element.scrollIntoView("{behavior: 'smooth', block: 'center'}");
-            element.click();
-            logger.info("Kliknięto element: '{}'", elementName);
-        } catch (Exception e) {
-            logger.warn("Standardowe kliknięcie nie działa, próbuję JavaScript...");
-            executeJavaScript("arguments[0].click();", element);
-        }
+        page.clickElement(elementName);
     }
 
     @When("Na stronie {string} klikam element {string} jeżeli jest widoczny")
@@ -78,26 +70,19 @@ public class StepDefinitions {
             throw new IllegalArgumentException("Nie znaleziono strony: " + pageName);
         }
 
-        SelenideElement element = page.getElement(elementName);
         logger.info("Sprawdzam, czy element '{}' na stronie '{}' jest dostępny...", elementName, pageName);
 
-        boolean isElementPresent;
-
-        try {
-            element.should(Condition.exist, Duration.ofSeconds(5));
-            isElementPresent = true;
-        } catch (Exception e) {
-            isElementPresent = false;
-        }
+        boolean isElementPresent = page.checkIfElementExists(elementName);
 
         if (isElementPresent) {
             logger.info("Element '{}' istnieje, sprawdzam widoczność...", elementName);
 
-            try {
-                element.shouldBe(Condition.visible, Duration.ofSeconds(2));
+            boolean isElementVisible = page.checkIfElementIsVisible(elementName);
+
+            if (isElementVisible) {
                 logger.info("Element '{}' jest widoczny, wykonuję kliknięcie...", elementName);
                 clickElementOnPage(pageName, elementName);
-            } catch (Exception e) {
+            } else {
                 logger.warn("Element '{}' nie jest widoczny, pomijam kliknięcie.", elementName);
             }
         } else {
